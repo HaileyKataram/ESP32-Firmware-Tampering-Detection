@@ -1,4 +1,4 @@
-# 🔐 IoT Firmware Tampering Detection System (ESP32)
+# 🔐 Firmware Tampering Detection System (ESP32)
 
 An advanced embedded security system designed to monitor, log, and verify the integrity of device firmware files using hardware-accelerated **SHA-256 cryptography**, **golden-hash database comparison**, **SD-card auditing**, and **Blynk IoT cloud alerts**.
 
